@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Harvard University",
+        "fees": "$50,000",
+        "placement": "High",
+        "review": 4.8,
+        "ranking": 1
+    },
+    {
+        "name": "Stanford University",
+        "fees": "$48,000",
+        "placement": "Excellent",
+        "review": 4.7,
+        "ranking": 5
+    },
+    {
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "fees": "$52,000",
+        "placement": "Very High",
+        "review": 4.6,
+        "ranking": 3
+    },
+    {
+        "name": "California Institute of Technology (Caltech)",
+        "fees": "$55,000",
+        "placement": "Outstanding",
+        "review": 4.5,
+        "ranking": 8
+    },
+    {
+        "name": "University of Cambridge",
+        "fees": "$47,000",
+        "placement": "Excellent",
+        "review": 4.7,
+        "ranking": 2
+    },
+    {
+        "name": "University of Oxford",
+        "fees": "$46,000",
+        "placement": "Very High",
+        "review": 4.6,
+        "ranking": 6
+    },
+    {
+        "name": "Princeton University",
+        "fees": "$49,000",
+        "placement": "High",
+        "review": 4.8,
+        "ranking": 7
+    },
+    {
+        "name": "Yale University",
+        "fees": "$51,000",
+        "placement": "Outstanding",
+        "review": 4.5,
+        "ranking": 4
+    },
+    {
+        "name": "University of Chicago",
+        "fees": "$53,000",
+        "placement": "Very High",
+        "review": 4.6,
+        "ranking": 9
+    },
+    {
+        "name": "Columbia University",
+        "fees": "$50,000",
+        "placement": "Excellent",
+        "review": 4.7,
+        "ranking": 10
+    }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>College Table</title>
+</head>
+<body>
+
+    <select id="filter-type">
+        <option value="name">Name</option>
+        <option value="ranking">Ranking</option>
+        <option value="review">User Review Rating</option>
+        <option value="fees">Fees</option>
+    </select>
+    <input type="text" id="filter-value" placeholder="Enter value">
+
+    <table>
+        <thead class="table-heading">
+            <tr>
+                <th>CD Rank</th>
+                <th>Colleges</th>
+                <th>Course Fees</th>
+                <th>Placement</th>
+                <th>User Reviews</th>
+                <th>Ranking</th>
+            </tr>
+        </thead>
+        <tbody id="college-table-body">
+        </tbody>
+    </table>
+
+    <script src="index.js"></script>
+</body>
+</html>
